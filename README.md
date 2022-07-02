@@ -13,7 +13,9 @@
 
 ## Insure-You Dashboard
 
-![image](https://user-images.githubusercontent.com/59086665/177015351-d1b0e2ff-0b18-4552-88e3-0b354ca2a5b3.png)
+![Insure-You-Chatbot-Dashboard](https://user-images.githubusercontent.com/59086665/177015393-2e461f10-d428-4f97-9077-6dee58dd208f.png)
+
+
 
 
 
