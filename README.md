@@ -7,7 +7,9 @@
 
 
 ## Bot Published Page
-![website-image](https://user-images.githubusercontent.com/59086665/177010026-ed7b41d6-b13f-497d-ab3d-f199417ce536.JPG)
+
+![image](https://user-images.githubusercontent.com/59086665/177010098-cdcac468-ffc7-4d81-8856-9fbf6b1c0cfd.png)
+
 
 
 ## Bot Analytics
