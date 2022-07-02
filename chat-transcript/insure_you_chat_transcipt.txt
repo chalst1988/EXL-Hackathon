@@ -1,0 +1,383 @@
+You said: Hello
+
+You said:
+Hello
+
+Sent at July 2 at 4:00 AM9 minutes ago
+Bot true said: Hi! My name is Insure-You, a smart bot developed for insurance domain by my boss Surya Teja Ch. I can help you with some sort of questions on insurance and relevant, insurance product recommendations, agent and details, and pre-requisite documents need to be submitted to buy a product.
+
+Bot true said:
+Hi! My name is Insure-You, a smart bot developed for insurance domain by my boss Surya Teja Ch. I can help you with some sort of questions on insurance and relevant, insurance product recommendations, agent and details, and pre-requisite documents need to be submitted to buy a product.
+
+Sent at July 2 at 4:00 AM
+Bot true said: So, tell me how can I help you today?
+Bot true said:
+So, tell me how can I help you today?
+
+Sent at July 2 at 4:00 AM9 minutes ago
+You said: What is Insurance?
+
+You said:
+What is Insurance?
+
+Sent at July 2 at 4:00 AM8 minutes ago
+Bot true said: To clarify, did you mean:
+
+Bot true said:
+To clarify, did you mean:
+
+Sent at July 2 at 4:00 AM8 minutes ago
+You said: What is Insurance?
+
+You said:
+What is Insurance?
+
+Sent at July 2 at 4:00 AM8 minutes ago
+Bot true said: Insurance is a means of protection from financial loss. It is a form of risk managementOpens in a new window; external., primarily used to hedgeOpens in a new window; external. against the risk of a contingent or uncertain loss. Fore more information please type- more One or more links in the message. Click to interact.
+
+Bot true said:
+Insurance is a means of protection from financial loss. It is a form of risk managementOpens in a new window; external., primarily used to hedgeOpens in a new window; external. against the risk of a contingent or uncertain loss. Fore more information please type- more
+
+Sent at July 2 at 4:00 AM8 minutes ago
+You said: more
+
+You said:
+more
+
+Sent at July 2 at 4:00 AM8 minutes ago
+Bot true said: An entity which provides insurance is known as an insurer, an insurance company, an insurance carrier or an underwriterOpens in a new window; external.. A person or entity who buys insurance is known as a policyholder. A person or entity covered under the policy is called an insured.  whereby another insurance company agrees to carry some of the risks, especially if the primary insurer deems the risk too large for it to carry. One or more links in the message. Click to interact.
+
+Bot true said:
+An entity which provides insurance is known as an insurer, an insurance company, an insurance carrier or an underwriterOpens in a new window; external..
+A person or entity who buys insurance is known as a policyholder.
+A person or entity covered under the policy is called an insured.  whereby another insurance company agrees to carry some of the risks, especially if the primary insurer deems the risk too large for it to carry.
+Sent at July 2 at 4:00 AM8 minutes ago
+You said: Any wikipedia link?
+
+You said:
+Any wikipedia link?
+
+Sent at July 2 at 4:00 AM8 minutes ago
+Bot true said: Here it is, https://en.wikipedia.org/wiki/InsuranceOpens in a new window; external. One or more links in the message. Click to interact.
+
+Bot true said:
+Here it is, https://en.wikipedia.org/wiki/InsuranceOpens in a new window; external.
+
+Sent at July 2 at 4:00 AM8 minutes ago
+You said: List of Insurance Products please?
+
+You said:
+List of Insurance Products please?
+
+Sent at July 2 at 4:01 AM8 minutes ago
+Bot true said: To clarify, did you mean:
+
+Bot true said:
+To clarify, did you mean:
+
+Sent at July 2 at 4:01 AM8 minutes ago
+You said: Insurance Products
+
+You said:
+Insurance Products
+
+Sent at July 2 at 4:01 AM8 minutes ago
+Bot true said: Plan Name:  Aditya Birla Sun Life Insurance Plan Type:  Term Age Range:  18 years to 65 years Policy Term:  10 years to 55 years Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No limit ======================= Plan Name:  SBI Life eShield Plan Type:  Term Age Range:  18 years to 65 years Policy Term:  5 years to 30 years Sum Assured Amount:  Minimum - Rs.20 lakh Maximum - No limit ======================= Plan Name:  HDFC Life Click 2 Protect Plus Plan Type:  Term Age Range:  18 years to 65 years Policy Term:  10 years to 40 years Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No limit ======================= Plan Name:  Aviva i-Life Plan Type:  Term Age Range:  18 years to 55 years Policy Term:  10 years to 35 years Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No limit ======================= Plan Name:  Future Generali Care Plus Plan Type:  Rural Age Range:  18 years to 60 years Policy Term:  5 Years to 30 Years Sum Assured Amount:  Minimum - Rs.15 lakh Maximum - Rs. 50 Laks ======================= Plan Name:  Birla Sun Life BSLI Protect@Ease Plan Plan Type:  Term Age Range:  18 years to 65 years Policy Term:  5 Years to 40 Years Sum Assured Amount:  Minimum - Rs.30 lakh Maximum - No Limit ======================= Plan Name:  LIC’s Jeevan Pragati Plan Plan Type:  Endowment Age Range:  12 years to 45 years Policy Term:  12 Years to 20 Years Sum Assured Amount:  Minimum - Rs.15 lakh Maximum - No Limit ======================= Plan Name:  Max Life Online Term Plan Plus Basic Life Cover Plan Type:  Term Age Range:  18 years to 60 years Policy Term:  10 Years to 40 Years Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - 100 Crores ======================= Plan Name:  Bharti Axa Life Elite Secure Plan Type:  Term Age Range:  18 years to 75 years Policy Term:  10 years to 25 years Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No Limit ======================= Plan Name:  PNB MetLife Mera Term Plan Plan Type:  Term Age Range:  18 years to 65 years Policy Term:  10 Years to 40 Years Sum Assured Amount:  Minimum - Rs.10 lakh Maximum - No Limit
+
+Bot true said:
+Plan Name:  Aditya Birla Sun Life Insurance
+
+Plan Type:  Term
+
+Age Range:  18 years to 65 years
+
+Policy Term:  10 years to 55 years
+
+Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No limit
+
+=======================
+
+Plan Name:  SBI Life eShield
+
+Plan Type:  Term
+
+Age Range:  18 years to 65 years
+
+Policy Term:  5 years to 30 years
+
+Sum Assured Amount:  Minimum - Rs.20 lakh Maximum - No limit
+
+=======================
+
+Plan Name:  HDFC Life Click 2 Protect Plus
+
+Plan Type:  Term
+
+Age Range:  18 years to 65 years
+
+Policy Term:  10 years to 40 years
+
+Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No limit
+
+=======================
+
+Plan Name:  Aviva i-Life
+
+Plan Type:  Term
+
+Age Range:  18 years to 55 years
+
+Policy Term:  10 years to 35 years
+
+Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No limit
+
+=======================
+
+Plan Name:  Future Generali Care Plus
+
+Plan Type:  Rural
+
+Age Range:  18 years to 60 years
+
+Policy Term:  5 Years to 30 Years
+
+Sum Assured Amount:  Minimum - Rs.15 lakh Maximum - Rs. 50 Laks
+
+=======================
+
+Plan Name:  Birla Sun Life BSLI Protect@Ease Plan
+
+Plan Type:  Term
+
+Age Range:  18 years to 65 years
+
+Policy Term:  5 Years to 40 Years
+
+Sum Assured Amount:  Minimum - Rs.30 lakh Maximum - No Limit
+
+=======================
+
+Plan Name:  LIC’s Jeevan Pragati Plan
+
+Plan Type:  Endowment
+
+Age Range:  12 years to 45 years
+
+Policy Term:  12 Years to 20 Years
+
+Sum Assured Amount:  Minimum - Rs.15 lakh Maximum - No Limit
+
+=======================
+
+Plan Name:  Max Life Online Term Plan Plus Basic Life Cover
+
+Plan Type:  Term
+
+Age Range:  18 years to 60 years
+
+Policy Term:  10 Years to 40 Years
+
+Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - 100 Crores
+
+=======================
+
+Plan Name:  Bharti Axa Life Elite
+
+Secure
+
+Plan Type:  Term
+
+Age Range:  18 years to 75 years
+
+Policy Term:  10 years to 25 years
+
+Sum Assured Amount:  Minimum - Rs.25 lakh Maximum - No Limit
+
+=======================
+
+Plan Name:  PNB MetLife Mera Term Plan
+
+Plan Type:  Term
+
+Age Range:  18 years to 65 years
+
+Policy Term:  10 Years to 40 Years
+
+Sum Assured Amount:  Minimum - Rs.10 lakh Maximum - No Limit
+
+Sent at July 2 at 4:01 AM8 minutes ago
+You said: Any one for oldage?
+
+You said:
+Any one for oldage?
+
+Sent at July 2 at 4:01 AM8 minutes ago
+Bot true said: To clarify, did you mean:
+
+Bot true said:
+To clarify, did you mean:
+
+Sent at July 2 at 4:01 AM8 minutes ago
+You said: Oldage Products
+
+You said:
+Oldage Products
+
+Sent at July 2 at 4:01 AM8 minutes ago
+Bot true said: Guardian Life 1.       Policy type: Term. Max issue age: 75 (10-year term), 70 (15-year term), 65 (20-year term). Coverage: $100,000+ 2.       Policy type: Whole. Max issue age: 90. Coverage: $25,000+ AARP 1.       Policy type: Term. Max issue age: 74 (AARP members only). Coverage: $10,000 to $150,000 (up to $100,000 for Montana and New York residents). 2.       Policy type: Whole. Max issue age: 80 (AARP members only). Coverage: Up to $50,000. MassMutual 1.       Policy type: Term. Max issue age: 75 (10-year term), 60 (25-year term). Coverage: $100,000+. 2.       Policy type: Whole. Max issue age: 90. Coverage: $25,000+. New York Life 1.       Policy type: Term. Max issue age: 75. Coverage: $100,000+. 2.       Policy type: Whole. Max issue age: 90. Coverage: $10,000+. State Farm 1.       Policy type: Term. Max issue age: 75 (10-year term), 65 (20-year term). Coverage: $100,000+. 2.       Policy type: Whole. Max issue age: 90. Coverage: $10,000+. USAA 1.       Policy type: Term. Max issue age: 70. Coverage: $100,000 to $10 million. 2.       Policy type: Whole. Max issue age: 85. Coverage: $25,000 to $10 million.
+
+Bot true said:
+Guardian Life
+
+1.       Policy type: Term.
+
+Max issue age: 75 (10-year term), 70 (15-year term), 65 (20-year term).
+
+Coverage: $100,000+
+
+2.       Policy type: Whole.
+
+Max issue age: 90.
+
+Coverage: $25,000+
+
+AARP
+
+1.       Policy type: Term.
+
+Max issue age: 74 (AARP members only).
+
+Coverage: $10,000 to $150,000 (up to $100,000 for Montana and New York residents).
+
+2.       Policy type: Whole.
+
+Max issue age: 80 (AARP members only).
+
+Coverage: Up to $50,000.
+
+MassMutual
+
+1.       Policy type: Term.
+
+Max issue age: 75 (10-year term), 60 (25-year term).
+
+Coverage: $100,000+.
+
+2.       Policy type: Whole.
+
+Max issue age: 90.
+
+Coverage: $25,000+.
+
+New York Life
+
+1.       Policy type: Term.
+
+Max issue age: 75.
+
+Coverage: $100,000+.
+
+2.       Policy type: Whole.
+
+Max issue age: 90.
+
+Coverage: $10,000+.
+
+State Farm
+
+1.       Policy type: Term.
+
+Max issue age: 75 (10-year term), 65 (20-year term).
+
+Coverage: $100,000+.
+
+2.       Policy type: Whole.
+
+Max issue age: 90.
+
+Coverage: $10,000+.
+
+USAA
+
+1.       Policy type: Term.
+
+Max issue age: 70.
+
+Coverage: $100,000 to $10 million.
+
+2.       Policy type: Whole.
+
+Max issue age: 85.
+
+Coverage: $25,000 to $10 million.
+
+Sent at July 2 at 4:01 AM8 minutes ago
+You said: Can you give me list of prerequisite documents?
+
+You said:
+Can you give me list of prerequisite documents?
+
+Sent at July 2 at 4:01 AM7 minutes ago
+Bot true said: Birth certificate Passport 10th or 12th mark sheet Aadhaar card Driving license Voter’s ID PAN card Telephone bill Electricity bill Ration card Driving license Voter’s ID Passport size photo
+
+Bot true said:
+Birth certificate
+Passport
+10th or 12th mark sheet
+Aadhaar card
+Driving license
+Voter’s ID
+PAN card
+Telephone bill
+Electricity bill
+Ration card
+Driving license
+Voter’s ID
+Passport size photo
+Sent at July 2 at 4:01 AM7 minutes ago
+You said: Where I can purchase insurance?
+
+You said:
+Where I can purchase insurance?
+
+Sent at July 2 at 4:01 AM7 minutes ago
+Bot true said: For product purchase and further clarifications, Kindly reach out to customer care in our organization. Below are the contact details. Customer Care No. 1800 208 8787 TOLL FREE NUMBER(S): 1800 208 8787 (Have not paid yet / Sales) 1800 258 5881 (Claims) 1800 258 5970 (Have already paid) ALL INDIA NUMBER(S): +91124-6656507 (NRI) E-Mail: care@pxxxxxxxxxx.com Thanks, Insure-Bot One or more links in the message. Click to interact.
+
+Bot true said:
+For product purchase and further clarifications, Kindly reach out to customer care in our organization. Below are the contact details.
+
+Customer Care No. 1800 208 8787
+
+TOLL FREE NUMBER(S):
+
+1800 208 8787 (Have not paid yet / Sales)
+1800 258 5881 (Claims)
+1800 258 5970 (Have already paid)
+ALL INDIA NUMBER(S):
+
++91124-6656507 (NRI)
+
+E-Mail: care@pxxxxxxxxxx.com
+
+Thanks,
+
+Insure-Bot
+
+Sent at July 2 at 4:01 AM
+Bot true said: Any thing else are you looking out for?
+Bot true said:
+Any thing else are you looking out for?
+
+Sent at July 2 at 4:01 AM7 minutes ago
+You said: Nope
+
+You said:
+Nope
+
+Sent at July 2 at 4:02 AM7 minutes ago
+Bot true said: Great! Thanks for reaching me out. Have a good day… Cheers!
+
+Bot true said:
+Great! Thanks for reaching me out. Have a good day… Cheers!
+
+Sent at July 2 at 4:02 AM7 minutes ago
