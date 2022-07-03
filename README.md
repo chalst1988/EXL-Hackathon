@@ -1,5 +1,5 @@
 # Insure-You
-## The Insurance Informative Bot
+## A Smart Insurance Bot
 ### Technologies Used:
   Azure Bot Service, Virtual Agent
 ### Technology Stack:
