@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Insure-You
 ### A Smart Insurance Bot
 
@@ -36,3 +37,6 @@ https://youtu.be/L_nA3LX4Xo8
 
 
 
+=======
+# EXL-Hackathon
+>>>>>>> 67772bf499570e2747c0dc9053389fb76bed8925
