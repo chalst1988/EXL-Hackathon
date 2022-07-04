@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Insure-You
 ### A Smart Insurance Bot
 
