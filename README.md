@@ -31,8 +31,5 @@
 ![image](https://user-images.githubusercontent.com/59086665/177118927-c8343c2e-e0b3-4fdf-9816-672e71d892ba.png)
 
 
-## Youtube Link
-https://youtu.be/L_nA3LX4Xo8
-
 
 
