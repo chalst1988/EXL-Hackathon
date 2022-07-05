@@ -31,11 +31,6 @@
 ![image](https://user-images.githubusercontent.com/59086665/177118927-c8343c2e-e0b3-4fdf-9816-672e71d892ba.png)
 
 
-## Youtube Link
-https://youtu.be/L_nA3LX4Xo8
 
-
-
-=======
+================
 # EXL-Hackathon
->>>>>>> 67772bf499570e2747c0dc9053389fb76bed8925
